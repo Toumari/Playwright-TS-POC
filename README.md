@@ -1,7 +1,4 @@
-## Playwright-TS-POC
-
-
-# README FOR TYPESCRIPT POC 
+#TYPESCRIPT / PLAYWRIGHT POC 
 
 This is a boilerplate project for running Playwright using Typescript
 
